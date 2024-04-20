@@ -1,0 +1,18 @@
+.camera-box {
+    position: fixed; /* Keep it fixed in the viewport */
+    top: 30%;
+    left: 45%;
+    transform: translate(-50%, -50%); /* Center it perfectly */
+  
+    /* Optional: Add some styling */
+    width: 400px; /* Adjust width as needed */
+    height: 300px; /* Adjust height as needed */
+    border: 2px solid #ccc;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3); 
+  }
+
+  h2{
+    margin-left: 700px;
+    margin-top: 70px;
+  }
+  
